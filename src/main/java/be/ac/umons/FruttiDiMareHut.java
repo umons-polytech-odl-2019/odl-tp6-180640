@@ -3,7 +3,7 @@ package be.ac.umons;
 public class FruttiDiMareHut extends FruttiDiMarre{
     public FruttiDiMareHut() {
         super();
-        setName("Frutti Di Mare Hut");
+        setName("FruttiDiMareHut");
         addIngredient(new Olive());
     }
 }

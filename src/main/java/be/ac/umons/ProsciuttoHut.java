@@ -3,7 +3,7 @@ package be.ac.umons;
 public class ProsciuttoHut extends Prosciutto{
     public ProsciuttoHut() {
         super();
-        setName("Prosciutto Hut");
+        setName("ProsciuttoHut");
         addIngredient(new Olive());
     }
 }
